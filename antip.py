@@ -1,6 +1,6 @@
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow
-from Тест import Ui_MainWindow
+from anti import Ui_MainWindow
 
 
 class MyWidget(QMainWindow, Ui_MainWindow):
